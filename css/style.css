@@ -80,4 +80,14 @@ body{
   }
 }
 
+.home__blob-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+
 
